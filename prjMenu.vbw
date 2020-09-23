@@ -1,0 +1,8 @@
+CMyItemData = 78, 13, 584, 384, C
+CMyItemDatas = 29, 21, 571, 347, C
+MDItest = 19, 66, 555, 345, C, 90, 29, 492, 329, C
+frmChild = 27, 83, 563, 361, C, 44, 44, 484, 368, C
+mCoolMenu = 2, -1, 620, 375, 
+WndCoolMenu = 12, 1, 548, 387, C
+HelpCallBack = 73, 32, 551, 296, C
+frmtest = 13, 13, 585, 360, , 48, 0, 565, 376, C
